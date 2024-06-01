@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@100;300;400;500;700;800;900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Desktop container utility class: */
+.container {
+  margin: 0 auto;
+}
+
+.radius-right {
+  border-bottom-right-radius: 80px;
+  border-top-right-radius: 20px;
+}
+.radius-left {
+  border-bottom-left-radius: 80px;
+  border-top-left-radius: 20px;
+}
+
+.svg {
+  height: 1.5rem;
+  width: 1.5rem;
+}
+
+.nav-element:hover {
+  cursor: pointer;
+  background-color: #fffaf5 !important;
+}
+.nav-element:hover .nav-header {
+  color: #333329 !important;
+}
+.nav-element:hover .nav-icon {
+  color: #333329 !important;
+}
+/* width */
+::-webkit-scrollbar {
+  width: 0px;
+}
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #333329;
+}
+.scroll-bar::-webkit-scrollbar {
+  width: 5px;
+}
+.scroll-bar {
+  direction: rtl;
+}
+.modal-scroll-bar::-webkit-scrollbar,
+.list-scroll-bar::-webkit-scrollbar {
+  height: 5px;
+  width: 5px;
+}
+
+.tab-scroll-bar::-webkit-scrollbar {
+  width: 2px;
+  height: 2px;
+}
+
+body {
+  font-family: 'M PLUS Rounded 1c';
+}
+
+.css-0 {
+  height: 100%;
+}
+
+.not-last-child-margin > * {
+  margin-bottom: 40px;
+}
+
+.not-last-child-margin > *:last-child {
+  margin-bottom: 0;
+}
+.css-24rejj-MuiInputBase-input-MuiOutlinedInput-input.Mui-disabled {
+  -webkit-text-fill-color: #333329 !important;
+}
