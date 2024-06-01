@@ -91,6 +91,8 @@ cd client
 npm run dev
 ```
 
+6. Import `db.ingredients.json` file in the MongoDB Compass.
+
 ### Configuration
 
 #### `.env Variables`
