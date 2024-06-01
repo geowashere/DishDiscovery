@@ -125,7 +125,7 @@ const PasswordSetting = ({ windowWidth }) => {
             {confirmNewPassword.length > 0 && (
               <IconButton
                 sx={{ position: 'absolute', right: '0' }}
-                onClick={() => setConfirmNewPassword(state => !state)}
+                onClick={() => setShowConfirmNewPassword(state => !state)}
               >
                 {showConfirmNewPassword ? (
                   <VisibilityOffIcon />
