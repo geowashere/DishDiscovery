@@ -1,0 +1,560 @@
+[{
+  "_id": {
+    "$oid": "65cb443724ecfe78921e4862"
+  },
+  "name": "white sugar",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb448a24ecfe78921e4868"
+  },
+  "name": "all-purpose flour",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb448f24ecfe78921e486e"
+  },
+  "name": "salt",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb449424ecfe78921e4874"
+  },
+  "name": "black pepper",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb449824ecfe78921e487a"
+  },
+  "name": "butter",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb449d24ecfe78921e4880"
+  },
+  "name": "eggplant",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb44a024ecfe78921e4886"
+  },
+  "name": "milk",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb44a324ecfe78921e488c"
+  },
+  "name": "water",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb44a724ecfe78921e4892"
+  },
+  "name": "oil",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb44ac24ecfe78921e4898"
+  },
+  "name": "vanilla extract",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb44b224ecfe78921e489e"
+  },
+  "name": "baking powder",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb44ba24ecfe78921e48a4"
+  },
+  "name": "baking soda",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb44bf24ecfe78921e48aa"
+  },
+  "name": "yeast",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb44c324ecfe78921e48b0"
+  },
+  "name": "cinnamon",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb44c724ecfe78921e48b6"
+  },
+  "name": "nutmeg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb44cc24ecfe78921e48bc"
+  },
+  "name": "cocoa powder",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb44d324ecfe78921e48c2"
+  },
+  "name": "chocolate chips",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb44d924ecfe78921e48c8"
+  },
+  "name": "honey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb44dd24ecfe78921e48ce"
+  },
+  "name": "maple syrup",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb44e324ecfe78921e48d4"
+  },
+  "name": "lemon",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb44e624ecfe78921e48da"
+  },
+  "name": "lime",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb44e924ecfe78921e48e0"
+  },
+  "name": "orange",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb44ed24ecfe78921e48e6"
+  },
+  "name": "garlic",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb44f024ecfe78921e48ec"
+  },
+  "name": "onion",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb44f724ecfe78921e48f2"
+  },
+  "name": "tomato",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb44fb24ecfe78921e48f8"
+  },
+  "name": "potato",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb450224ecfe78921e48fe"
+  },
+  "name": "carrot",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb89eacae035925af87522"
+  },
+  "name": "ladyfingers",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb89f6cae035925af8752a"
+  },
+  "name": "strong coffee",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb89fbcae035925af87532"
+  },
+  "name": "egg yolks",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb8a05cae035925af8753a"
+  },
+  "name": "mascarpone cheese",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb8a0bcae035925af87542"
+  },
+  "name": "parmesan cheese",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb8a20cae035925af8754a"
+  },
+  "name": "heavy cream",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb9718ba666be50f0846fb"
+  },
+  "name": "pizza dough",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb9724ba666be50f084703"
+  },
+  "name": "tomato sauce",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb973dba666be50f08470b"
+  },
+  "name": "fresh mozzarella cheese",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb974cba666be50f084713"
+  },
+  "name": "basil leaves",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb9759ba666be50f08471b"
+  },
+  "name": "olive oil",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb9b0b0b01f70e13077686"
+  },
+  "name": "goat cheese",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb9b210b01f70e1307768e"
+  },
+  "name": "pepperoni",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb9b330b01f70e13077696"
+  },
+  "name": "pineapple chunks",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cbcf2b68950f2f258dfd00"
+  },
+  "name": "boneless, skinless chicken breast",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cbcfe9ac6ebef8656154a5"
+  },
+  "name": "soy sauce",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cbd00aac6ebef8656154ae"
+  },
+  "name": "sesame oil",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cbd01cac6ebef8656154b7"
+  },
+  "name": "rice vinegar",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6633c626c644d30dba27f2ec"
+  },
+  "name": "sweet italian sausage",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6633c64fc644d30dba27f2f0"
+  },
+  "name": "ground beef",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6633c657c644d30dba27f2f4"
+  },
+  "name": "minced onion",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6633c66dc644d30dba27f2f8"
+  },
+  "name": "crushed tomatoes",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6633c69ec644d30dba27f2ff"
+  },
+  "name": "canned tomato sauce",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6633c6b9c644d30dba27f303"
+  },
+  "name": "tomato paste",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6633c6e3c644d30dba27f30a"
+  },
+  "name": "parsley",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6633c709c644d30dba27f30e"
+  },
+  "name": "italian seasoning",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6633c70fc644d30dba27f312"
+  },
+  "name": "fennel seeds",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6633c73fc644d30dba27f319"
+  },
+  "name": "lasagna noodles",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6633c747c644d30dba27f31d"
+  },
+  "name": "ricotta cheese",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6633c75dc644d30dba27f321"
+  },
+  "name": "egg(s)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6633c787c644d30dba27f325"
+  },
+  "name": "mozzarella cheese",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6634ee47e7ba0a64e7986d50"
+  },
+  "name": "oregano",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6634ee5ce7ba0a64e7986d57"
+  },
+  "name": "garlic powder",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6634ee65e7ba0a64e7986d5e"
+  },
+  "name": "onion powder",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6634ee76e7ba0a64e7986d65"
+  },
+  "name": "brown sugar",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6634f6a2def99d50231feb41"
+  },
+  "name": "turmeric",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6634f6b5def99d50231feb48"
+  },
+  "name": "garam masala",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6634f6dbdef99d50231feb4f"
+  },
+  "name": "lamb meat",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6634f6ffdef99d50231feb5c"
+  },
+  "name": "zucchini",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6634f707def99d50231feb63"
+  },
+  "name": "broccoli",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6634f712def99d50231feb6a"
+  },
+  "name": "cauliflower",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6634f726def99d50231feb74"
+  },
+  "name": "jasmine rice",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6634f739def99d50231feb7b"
+  },
+  "name": "yogurt",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6634fa59def99d50231febeb"
+  },
+  "name": "celery",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6634fa7fdef99d50231febf5"
+  },
+  "name": "chicken broth",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6634fa89def99d50231febfc"
+  },
+  "name": "vegetable broth",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6634fa96def99d50231fec03"
+  },
+  "name": "chicken breast",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6634faa0def99d50231fec0a"
+  },
+  "name": "egg noodles",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6634fd7adef99d50231fec62"
+  },
+  "name": "coffee granules",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6634fd84def99d50231fec69"
+  },
+  "name": "ice",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6634ffafdef99d50231fecea"
+  },
+  "name": "bell pepper",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6634ffc4def99d50231fecf1"
+  },
+  "name": "spinach",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6634ffd5def99d50231fecf8"
+  },
+  "name": "cottage cheese",
+  "__v": 0
+}]
