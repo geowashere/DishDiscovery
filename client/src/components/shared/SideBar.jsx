@@ -211,7 +211,7 @@ const SideBar = () => {
             </div>
 
             <Link
-              to="https://github.com/geowashere/Recipe-App/"
+              to="https://github.com/geowashere/DishDiscovery"
               target="_blank"
               className="flex px-5 w-full gap-4 whitespace-nowrap"
             >
