@@ -2,6 +2,8 @@
 
 A social media platform for recipes with administrator permissions.
 
+[Demo](https://www.youtube.com/watch?v=jhUiONmRWlI)
+
 ![Profile Page](https://raw.githubusercontent.com/geowashere/DishDiscovery/main/client/src/assets/profile-page.png)
 
 ## Table of Contents
@@ -110,3 +112,5 @@ Run the `./owner-tool.sh` script to access the owner tool, creating, removing ad
 ## Usage
 
 #### Demo
+
+https://www.youtube.com/watch?v=jhUiONmRWlI
